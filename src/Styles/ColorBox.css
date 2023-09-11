@@ -1,0 +1,10 @@
+.ColorBox{
+  width: 25%;
+  height: 25%;
+  /* background-color: turquoise; */
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
